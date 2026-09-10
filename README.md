@@ -1,12 +1,12 @@
 # Financial-Performance-P-L-Analytics-Dashboard
 
-1. Project Overview
+**1. Project Overview
 
 This project is an end-to-end Financial Performance & P&L Analytics solution developed using Microsoft Power BI. The objective is to provide management with a consolidated view of revenue, profitability, operating expenses, EBITDA, and net profit while enabling comparison between Actual, Budget, and Forecast performance.
 
 The dashboard analyzes financial performance across multiple Business Units (BU) and P&L categories, allowing users to identify performance gaps, profitability trends, and key areas requiring management attention.
 
-2. Business Objective
+**2. Business Objective
 
 The primary objective of this project is to transform detailed financial transaction data into an interactive management reporting solution that can answer questions such as:
 
@@ -18,7 +18,8 @@ How is EBITDA performing against financial targets?
 What are the major drivers of budget vs. actual variance?
 How is current-year performance progressing compared with the previous financial year?
 Which areas require management attention based on profitability and cost performance?
-3. Dataset
+
+**3. Dataset
 
 The primary dataset contains approximately 55,000 financial records covering historical financial performance.
 
@@ -33,7 +34,7 @@ Value	Financial amount
 
 The dataset supports financial analysis across multiple years, business units, P&L categories and reporting scenarios.
 
-4. Key KPIs
+**4. Key KPIs
 
 The dashboard focuses on the following management KPIs:
 
@@ -61,7 +62,7 @@ Variance Analysis
 
 Calculates the difference between Actual performance and Budget/Forecast expectations to highlight financial gaps.
 
-5. Dashboard Structure
+**5. Dashboard Structure
 Executive Summary
 
 The Executive Summary provides a high-level management view of financial performance.
@@ -117,7 +118,7 @@ Net Profit After Tax %
 
 For each metric, Actual, Budget and Variance values are presented to support financial decision-making.
 
-6. Analytical Approach
+**6. Analytical Approach
 
 The project follows a structured BI development approach:
 
@@ -163,7 +164,8 @@ Budget variance
 Forecast variance
 YTD performance
 Year-over-year comparison
-7. Variance Analysis
+
+**7. Variance Analysis
 
 A key component of the solution is financial variance analysis.
 
@@ -181,7 +183,7 @@ Provides a cumulative view of financial performance during the financial year.
 
 This enables management to distinguish between isolated monthly fluctuations and sustained performance trends.
 
-8. Business Insights
+**8. Business Insights
 
 The dashboard enables management to identify several important financial patterns:
 
@@ -192,7 +194,8 @@ EBITDA analysis highlights the operating profitability of individual Business Un
 Operating Expense ratios provide visibility into cost efficiency.
 Monthly and YTD variance analysis helps identify areas where actual performance is deviating from financial targets.
 Year-over-year comparisons provide visibility into financial growth and changes in profitability.
-9. Technical Skills Demonstrated
+
+**9. Technical Skills Demonstrated
 Power BI
 Power Query
 Data transformation
@@ -219,7 +222,8 @@ P&L analysis
 Management reporting
 Performance monitoring
 Data-driven decision support
-10. Key Business Value
+
+**10. Key Business Value
 
 The solution converts detailed financial data into a single interactive management reporting platform.
 
